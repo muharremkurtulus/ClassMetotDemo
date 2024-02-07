@@ -1,0 +1,5 @@
+/Users/muharremkurtulus/Desktop/c#Kampı/ClassMetotDemo/ClassMetotDemo
+/Users/muharremkurtulus/Desktop/c#Kampı/ClassMetotDemo/ClassMetotDemo.dll
+/Users/muharremkurtulus/Desktop/c#Kampı/ClassMetotDemo/ClassMetotDemo.deps.json
+/Users/muharremkurtulus/Desktop/c#Kampı/ClassMetotDemo/ClassMetotDemo.runtimeconfig.json
+/Users/muharremkurtulus/Desktop/c#Kampı/ClassMetotDemo/ClassMetotDemo.pdb

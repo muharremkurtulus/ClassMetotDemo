@@ -1,0 +1,5 @@
+/Users/muharremkurtulus/Desktop/ClassMetotDemo
+/Users/muharremkurtulus/Desktop/ClassMetotDemo.dll
+/Users/muharremkurtulus/Desktop/ClassMetotDemo.deps.json
+/Users/muharremkurtulus/Desktop/ClassMetotDemo.runtimeconfig.json
+/Users/muharremkurtulus/Desktop/ClassMetotDemo.pdb
